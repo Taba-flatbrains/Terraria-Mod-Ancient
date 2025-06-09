@@ -1,0 +1,905 @@
+Items: {
+	Smeltery: {
+		DisplayName: Smeltery
+		Tooltip: Used to craft Alloys
+	}
+
+	BronzeBar: {
+		DisplayName: Bronze Bar
+		Tooltip: ""
+	}
+
+	ElectrumBar: {
+		DisplayName: Electrum Bar
+		Tooltip: ""
+	}
+
+	SteelBar: {
+		DisplayName: Steel Bar
+		Tooltip: ""
+	}
+
+	SolderingTinBar: {
+		Tooltip: ""
+		DisplayName: Soldering Tin Bar
+	}
+
+	EyeOfSkadiScroll: {
+		DisplayName: Eye Of Skadi Scroll
+		Tooltip:
+			'''
+			30 Ice Block 
+			10 Sapphire
+			'''
+	}
+
+	EyeOfSkadi: {
+		DisplayName: Eye Of Skadi
+		Tooltip: Attacks apply frostburn
+	}
+
+	IronCoreScroll: {
+		DisplayName: Iron Core Scroll
+		Tooltip:
+			'''
+			10 Iron Bar
+			10 Steel Bar
+			'''
+	}
+
+	IronCore: {
+		DisplayName: Iron Core
+		Tooltip: ""
+	}
+
+	SharangaScroll: {
+		DisplayName: Sharanga Scroll
+		Tooltip:
+			'''
+			2 Molten Fury
+			10 Hellstone Bar
+			'''
+	}
+
+	Sharanga: {
+		DisplayName: Sharanga
+		Tooltip: ""
+	}
+
+	Leather: {
+		DisplayName: Leather
+		Tooltip: ""
+	}
+
+	HangGlider: {
+		DisplayName: Hang Glider
+		Tooltip: ""
+	}
+
+	HarpyGlider: {
+		DisplayName: Harpy Glider
+		Tooltip: ""
+	}
+
+	LeatherWallItem: {
+		DisplayName: Leather Wall Item
+		Tooltip: ""
+	}
+
+	LeatherWall: {
+		DisplayName: Leather Wall
+		Tooltip: ""
+	}
+
+	SteelHelmet: {
+		DisplayName: Steel Helmet
+		Tooltip: ""
+	}
+
+	SteelChainmail: {
+		DisplayName: Steel Chainmail
+		Tooltip: ""
+	}
+
+	SteelGreaves: {
+		DisplayName: Steel Greaves
+		Tooltip: ""
+	}
+
+	BronzeChainmail: {
+		DisplayName: Bronze Chainmail
+		Tooltip: ""
+	}
+
+	BronzeGreaves: {
+		DisplayName: Bronze Greaves
+		Tooltip: ""
+	}
+
+	BronzeHelmet: {
+		DisplayName: Bronze Helmet
+		Tooltip: ""
+	}
+
+	BronzePickaxe: {
+		DisplayName: Bronze Pickaxe
+		Tooltip: ""
+	}
+
+	SteelPickaxe: {
+		DisplayName: Steel Pickaxe
+		Tooltip: ""
+	}
+
+	BronzeHammer: {
+		DisplayName: Bronze Hammer
+		Tooltip: ""
+	}
+
+	SteelHammer: {
+		DisplayName: Steel Hammer
+		Tooltip: ""
+	}
+
+	BronzeAxe: {
+		DisplayName: Bronze Axe
+		Tooltip: ""
+	}
+
+	SteelAxe: {
+		DisplayName: Steel Axe
+		Tooltip: ""
+	}
+
+	BronzeBroadSword: {
+		DisplayName: Bronze Broad Sword
+		Tooltip: ""
+	}
+
+	SteelBroadSword: {
+		DisplayName: Steel Broad Sword
+		Tooltip: ""
+	}
+
+	BronzeShortSword: {
+		DisplayName: Bronze Short Sword
+		Tooltip: ""
+	}
+
+	SteelShortSword: {
+		DisplayName: Steel Short Sword
+		Tooltip: ""
+	}
+
+	AncientAltar: {
+		DisplayName: Ancient Altar
+		Tooltip: Use Scrolls to perform Rituals
+	}
+
+	IonShell: {
+		Tooltip: Damages nearby enemies
+		DisplayName: Ion Shell
+	}
+
+	IonShellScroll: {
+		DisplayName: Ion Shell Scroll
+		Tooltip:
+			'''
+			60 Obsidian
+			30 Demonite Bar
+			10 Amethyst
+			'''
+	}
+
+	MechanicalGolemStaff: {
+		DisplayName: Mechanical Golem Staff
+		Tooltip: Summons a small robot
+	}
+
+	HeavyFlail: {
+		DisplayName: Heavy Flail
+		Tooltip: ""
+	}
+
+	LivingwoodBarrier: {
+		DisplayName: Livingwood Barrier
+		Tooltip: Provides defense decaying on damage
+	}
+
+	LivingwoodBarrierScroll: {
+		DisplayName: Livingwood Barrier Scroll
+		Tooltip:
+			'''
+			100 Wood
+			20 Emerald
+			'''
+	}
+
+	UnknownScroll: {
+		DisplayName: Unknown Scroll
+		Tooltip: ""
+	}
+
+	ChaosPendant: {
+		DisplayName: Chaos Pendant
+		Tooltip:
+			'''
+			+ 20% Crit Damage
+			Life Steal when critting
+			'''
+	}
+
+	DarkSteelBar: {
+		DisplayName: Dark Steel Bar
+		Tooltip: ""
+	}
+
+	ChaosPendantScroll: {
+		DisplayName: Chaos Pendant Scroll
+		Tooltip: 12 Dark Steel
+	}
+
+	ShivasGuard: {
+		DisplayName: Shivas Guard
+		Tooltip:
+			'''
+			Emits a wave of ice by clicking <{0}>
+			10 seconds cooldown
+			'''
+	}
+
+	DarknessEmbraceBossBag: {
+		DisplayName: Darkness Embrace Boss Bag
+		Tooltip: ""
+	}
+
+	DarknessEmbraceRelic: {
+		DisplayName: Darkness Embrace Relic
+		Tooltip: ""
+	}
+
+	DarknessEmbraceTrophy: {
+		DisplayName: Darkness Embrace Trophy
+		Tooltip: ""
+	}
+
+	Mekansm: {
+		DisplayName: Mekansm
+		Tooltip:
+			'''
+			+ 20% life regen 
+			Heals nearby players by 100 hp by clicking <{0}>
+			60 seconds cooldown
+			'''
+	}
+
+	MekansmScroll: {
+		DisplayName: Mekansm Scroll
+		Tooltip:
+			'''
+			15 Bronze Bar
+			10 Diamond
+			'''
+	}
+
+	SuspiciousLookingCrystal: {
+		DisplayName: Suspicious Looking Crystal
+		Tooltip:
+			'''
+			Summons Darkness Embrace
+			Can only be used in the Underworld
+			'''
+	}
+
+	SuspiciousLookingCrystalScroll: {
+		DisplayName: Suspicious Looking Crystal Scroll
+		Tooltip:
+			'''
+			5 Demonite Bar
+			5 Hellstone Bar
+			5 Soul of Night
+			'''
+	}
+
+	BloodStone: {
+		DisplayName: Blood Stone
+		Tooltip:
+			'''
+			Regenerates Mana when inflicting Magic Damage
+			Overflow Mana Regen becomes Healing
+			'''
+	}
+
+	BloodStoneScroll: {
+		DisplayName: Blood Stone Scroll
+		Tooltip:
+			'''
+			10 Spectre Bar
+			30 Ruby
+			2 Life Crystal
+			2 Mana Crystal
+			'''
+	}
+
+	DrumsOfSwiftness: {
+		DisplayName: Drums of Swiftness
+		Tooltip:
+			'''
+			10% increased movement speed
+			Gives nearby players an attack and movement speed boost by clicking <{0}>
+			40 seconds cooldown
+			'''
+	}
+
+	Poison: {
+		DisplayName: Poison
+		Tooltip: ""
+	}
+
+	Deadalus: {
+		DisplayName: Deadalus
+		Tooltip: 20% increased critical damage
+	}
+
+	Desolator: {
+		DisplayName: Desolator
+		Tooltip:
+			'''
+			20% increased critical damage
+			A melee hit will curse the target
+			'''
+	}
+
+	HeroSword: {
+		DisplayName: Hero Sword
+		Tooltip: Summons ancient soldiers to fight for you
+	}
+
+	Butterfly: {
+		DisplayName: Butterfly
+		Tooltip: Powerful but difficult to wield
+	}
+
+	DarkScepter: {
+		DisplayName: Dark Scepter
+		Tooltip: 20% increased critical damage
+	}
+
+	Torment: {
+		DisplayName: Torment
+		Tooltip:
+			'''
+			20% summon tag critical damage
+			10% summon tag critical strike chance
+			Your summons will focus struck enemies
+			'''
+	}
+
+	Satanic: {
+		DisplayName: Satanic
+		Tooltip:
+			'''
+			Increases armor penetration by 10
+			You always crit for 10 seconds by clicking <{0}>
+			120 seconds cooldown
+			'''
+	}
+
+	Bloodlust: {
+		DisplayName: Bloodlust
+		Tooltip:
+			'''
+			increases movespeed by 10%
+			increases attackspeed by 5%
+			bonus doubles when low hp
+			'''
+	}
+
+	BloodlustScroll: {
+		DisplayName: Bloodlust Scroll
+		Tooltip: 15 Soul of Fright
+	}
+
+	ArcaneShard: {
+		DisplayName: Arcane Shard
+		Tooltip: ""
+	}
+
+	SoulOfTwilight: {
+		DisplayName: Soul Of Twilight
+		Tooltip: "'The essence of arcane beings'"
+	}
+
+	GogglesOfTrueSight: {
+		DisplayName: Goggles Of True Sight
+		Tooltip: Better vision in Astral Biome
+	}
+
+	CrystalWings: {
+		DisplayName: Crystal Wings
+		Tooltip: Allows flight and slow fall
+	}
+
+	ElfInvasionTestItem: {
+		DisplayName: Elf Invasion Test Item
+		Tooltip: Unobtainable, Summons the Elf Invasion
+	}
+
+	ElvenReforgeStone: {
+		DisplayName: Elven Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+4% melee attack speed
+			+40 mana
+			'''
+	}
+
+	ElvenEnchanter: {
+		DisplayName: Elven Enchanter
+		Tooltip: Used for applying reforge stones
+	}
+
+	LunarEnchanter: {
+		DisplayName: Lunar Enchanter
+		Tooltip: Used for applying reforge stones
+	}
+
+	NoneScroll: {
+		DisplayName: None Scroll
+		Tooltip: Unobtainable, Test Item
+	}
+
+	AncientClub: {
+		DisplayName: Ancient Club
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+5% damage
+			'''
+	}
+
+	BloodstainedReforgeStone: {
+		DisplayName: Bloodstained Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+5% melee attack speed
+			'''
+	}
+
+	CollosalReforgeStone: {
+		DisplayName: Collosal Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+5 defense
+			'''
+	}
+
+	LevitatingReforgeStone: {
+		DisplayName: Levitating Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+5% movement speed
+			'''
+	}
+
+	ShimmeringReforgeStone: {
+		DisplayName: Shimmering Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+60 mana
+			'''
+	}
+
+	StrategistsStone: {
+		DisplayName: Strategists Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+1 max sentries
+			'''
+	}
+
+	UnholyReforgeStone: {
+		DisplayName: Unholy Reforge Stone
+		Tooltip:
+			'''
+			Can be applied to an Accessoire using an Enchanter
+			+5% critical strike chance
+			'''
+	}
+
+	BootsOfTravel: {
+		DisplayName: Boots of Travel
+		Tooltip:
+			'''
+			150% increased movement speed
+			20% increased attack speed
+			'''
+	}
+
+	LaserTrap: {
+		DisplayName: Laser Trap
+		Tooltip: ""
+	}
+
+	MarvelScale: {
+		DisplayName: Marvel Scale
+		Tooltip: ""
+	}
+
+	PrismarinePearl: {
+		DisplayName: Prismarine Pearl
+		Tooltip:
+			'''
+			90% damage reduction for 3 seconds by clicking <{0}>
+			Explode afterwards to deal reduced damage back
+			60 seconds cooldown
+			Activates Automatically when you would die
+			'''
+	}
+
+	MarinasTome: {
+		DisplayName: Marinas Tome
+		Tooltip: ""
+	}
+
+	Silverstream: {
+		DisplayName: Silverstream
+		Tooltip: 66% chance to save ammo
+	}
+
+	Tidebringer: {
+		DisplayName: Tidebringer
+		Tooltip: ""
+	}
+
+	LunarStaff: {
+		DisplayName: Lunar Staff
+		Tooltip: Summons a Lunar Light to fight for you
+	}
+
+	MetalFrame: {
+		DisplayName: Metal Frame
+		Tooltip: ""
+	}
+
+	AdvancedMechanicsWorkbench: {
+		DisplayName: Advanced Mechanics Workbench
+		Tooltip: Used to craft advanced stuff
+	}
+
+	ImprovisedCircuitBoard: {
+		DisplayName: Improvised Circuit Board
+		Tooltip: ""
+	}
+
+	HomingMissile: {
+		DisplayName: Homing Missile
+		Tooltip: ""
+	}
+
+	ElectronicAssistant: {
+		DisplayName: Electronic Assistant
+		Tooltip: 20 summon tag damage on nearby enemies
+	}
+
+	AphoticBullet: {
+		DisplayName: Aphotic Bullet
+		Tooltip: ""
+	}
+
+	HealingTotem: {
+		DisplayName: Healing Totem
+		Tooltip: Increases life regen of nearby players
+	}
+
+	ManathirstTotem: {
+		DisplayName: Manathirst Totem
+		Tooltip: Increases mana regen of nearby players
+	}
+
+	ShamansAmulet: {
+		DisplayName: Shamans Amulet
+		Tooltip:
+			'''
+			Unlocks your totems true potential
+			Increases your max number of sentries by 1
+			'''
+	}
+
+	AquaticTotem: {
+		DisplayName: Aquatic Totem
+		Tooltip: Small chance for nearby players to dodge attacks
+	}
+
+	TotemOfTranquility: {
+		DisplayName: Totem Of Tranquility
+		Tooltip: Slows down nearby hostile projectiles
+	}
+}
+
+NPCs: {
+	Storyteller: {
+		DisplayName: Storyteller
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I can better focus on my scrolls, when it is so quiet.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: Never in my life have I seen such an ugly place as {BiomeName}.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: "{NPCName} always listerns to my stories."
+			DislikeNPC: I dislike {NPCName}. Always disrupting me.
+			LikeNPC_Princess: "{NPCName} always listerns to my stories."
+			Princess_LovesNPC: I like {NPCName}, he has amazing stories to tell.
+		}
+	}
+
+	Bull.DisplayName: Bull
+	ExplosiveRat.DisplayName: Explosive Rat
+	RottenTentacle.DisplayName: Rotten Tentacle
+	BloodyTentacle.DisplayName: Bloody Tentacle
+	AngryBook.DisplayName: Angry Book
+	FloatingMystery.DisplayName: Floating Mystery
+	Naga.DisplayName: Naga
+	DarknessEmbrace.DisplayName: Darkness Embrace
+	PoisonDartFrog.DisplayName: Poison Dart Frog
+	VodooSpirit.DisplayName: Vodoo Spirit
+	FriendlySpirit.DisplayName: Friendly Spirit
+	MischievousSpirit.DisplayName: Mischievous Spirit
+	CrystalBeast.DisplayName: Crystal Beast
+	Bladefury.DisplayName: Bladefury
+
+	Metallurgist: {
+		DisplayName: Metallurgist
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I dislike {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	HighElfSorcerer.DisplayName: High Elf Sorcerer
+	HighElfKnight.DisplayName: High Elf Knight
+	HighElfPriestress.DisplayName: High Elf Priestress
+	DarkElfRanger.DisplayName: Dark Elf Ranger
+	DarkElfAssasin.DisplayName: Dark Elf Assasin
+	DarkElfWarlock.DisplayName: Dark Elf Warlock
+	WickedImp.DisplayName: Wicked Imp
+	Windwaker.DisplayName: Windwaker
+	Starcaller.DisplayName: Starcaller
+
+	Elf: {
+		DisplayName: Elf
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LoveBiome: I love {BiomeName}.
+			LikeBiome: I like {BiomeName}.
+			DislikeBiome: I dislike {BiomeName}.
+			LoveNPC: I love {NPCName}. Don't tell her.
+			LikeNPC: I enjoy {NPCName}s presence.
+			DislikeNPC: "{NPCName} is annoying as hell."
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	FlaringWyvern.DisplayName: Flaring Wyvern
+	Succubus.DisplayName: Succubus
+	Kiranocif.DisplayName: Kiranocif
+	InfernalSpirit.DisplayName: Infernal Spirit
+	YrimirsSoul.DisplayName: Yrimirs Soul
+}
+
+Projectiles: {
+	BronzeShortSwordProjectile.DisplayName: Bronze Short Sword
+	SteelShortSwordProjectile.DisplayName: Steel Short Sword
+	MechanicalGolem.DisplayName: Mechanical Golem
+	HeavyFlailProjectile.DisplayName: Heavy Flail
+	PaperProjectile.DisplayName: Paper
+	NagaMagicProjectile.DisplayName: Naga Magic
+	ShivasGuardProjectile.DisplayName: Ice Shard
+	VoidBolts.DisplayName: Void Bolts
+	DarkShackles.DisplayName: Dark Shackles
+	GhastlyDagger.DisplayName: Ghastly Dagger
+	DeadalusArrow.DisplayName: Deadalus Arrow
+	DesolatorCircularSwingProjectile.DisplayName: Desolator
+	HeroSwordSoldier.DisplayName: Hero Sword Soldier
+	HeroSwordSwordProjectile.DisplayName: Hero Sword Sword Projectile
+	ButterflyProjectile.DisplayName: Butterfly
+	DarkScepterProjectile.DisplayName: Dark Scepter
+	TormentProjectile.DisplayName: Torment
+	ArcaneFlames.DisplayName: Arcane Flames
+	HighElfGreatsword.DisplayName: High Elf Greatsword
+	DarkElfRangerBowProj.DisplayName: Dark Elf Ranger Bow Proj
+	CripplingEnergy.DisplayName: Crippling Energy
+	PurifyingLight.DisplayName: Purifying Light
+	Dschotrom.DisplayName: Dschotrom
+	HostileTornado.DisplayName: Hostile Tornado
+	CelestrialShower.DisplayName: Celestrial Hail
+	EnchanterAnimation.DisplayName: Enchanter Animation
+	DevilishKiss.DisplayName: Devilish Kiss
+	Laserbeam.DisplayName: Laserbeam
+	GlisteningWraith.DisplayName: Glistening Wraith
+	WaterPulse.DisplayName: Water Pulse
+	WaterPulseFragments.DisplayName: Water Pulse
+	SilverstreamArrow.DisplayName: Silverstream Arrow
+	TidebringerProjectile.DisplayName: Tidebringer Projectile
+	LunarLight.DisplayName: Lunar Light
+	HomingMissileGrenadeProjectile.DisplayName: Homing Missile Grenade Projectile
+	HomingMissileProximityMineProjectile.DisplayName: Homing Missile Proximity Mine Projectile
+	HomingMissileRocketProjectile.DisplayName: Homing Missile Rocket Projectile
+	HomingMissileSnowmanRocketProjectile.DisplayName: Homing Missile Snowman Rocket Projectile
+	AphoticBulletProjectile.DisplayName: Aphotic Bullet Projectile
+	HealingTotemProjectile.DisplayName: Healing Totem Projectile
+	ManathirstTotemProjectile.DisplayName: Manathirst Totem Projectile
+	BrambleShot.DisplayName: Bramble Shot
+	AquaticTotemProjectile.DisplayName: Aquatic Totem Projectile
+	FishProjectile.DisplayName: Fish Projectile
+	TotemOfTranquilityProjectile.DisplayName: Totem Of Tranquility Projectile
+	RockProjectile.DisplayName: Rockslide
+	RockShield.DisplayName: Rock Shield
+	MeanLookProjectile.DisplayName: Mean Look Projectile
+	RockTombProjectile.DisplayName: Rock Tomb Projectile
+	BlazingEmber.DisplayName: Blazing Ember
+	HagethornRay.DisplayName: Hagethorn Ray
+	SearingDroplet.DisplayName: Searing Droplet
+}
+
+Buffs: {
+	MechanicalGolemBuff: {
+		Description: A small robot fights for you
+		DisplayName: Mechanical Golem
+	}
+
+	DarkShacklesBuff: {
+		DisplayName: Dark Shackles
+		Description: The shackles are locking you in place!
+	}
+
+	DrumsOfSwiftnessBuff: {
+		DisplayName: Drums of Swiftness Buff
+		Description: attack and movement speed increased by 15%
+	}
+
+	Desolated: {
+		DisplayName: Desolated
+		Description: Your fate will catch up to you
+	}
+
+	TormentDebuff: {
+		DisplayName: Torment Debuff
+		Description: Increased summon crit damage and chance
+	}
+
+	SatanicBuff: {
+		DisplayName: Satanic Buff
+		Description: You always crit
+	}
+
+	NoTeleportationDebuff: {
+		DisplayName: No Teleports
+		Description: You cannot use items to teleport you
+	}
+
+	MoreGravityBuff: {
+		DisplayName: Stronger Gravity
+		Description: Your feet feel heavy ...
+	}
+
+	PrismarinePearlBuff: {
+		DisplayName: Prismarine Pearl
+		Description: Massive incoming damage reduction
+	}
+
+	LunarLightBuff: {
+		DisplayName: Lunar Light
+		Description: The lights of the moon are fighting for you
+	}
+
+	DetectedBuff: {
+		DisplayName: Detected
+		Description: 20 Summon tag damage
+	}
+
+	HauntedBuff: {
+		DisplayName: Haunted
+		Description: Take increasingly more damage
+	}
+
+	TotemRegenerationBuff: {
+		DisplayName: Totem Regeneration
+		Description: Life regeneration slightly increased
+	}
+
+	TotemManaRegenerationBuff: {
+		DisplayName: Totem Mana Regeneration Buff
+		Description: Mana regeneration slightly increased
+	}
+
+	SlipperyBuff: {
+		DisplayName: Slippery
+		Description: Small chance to dodge incoming attack
+	}
+
+	DecayBuff: {
+		DisplayName: Decay
+		Description: Temporarily lose max life
+	}
+
+	MoltenBuff: {
+		DisplayName: Molten
+		Description: Your armor is melting away
+	}
+}
+
+Biomes: {
+	AncientRuinsBiome: {
+		DisplayName: Ancient Ruins Biome
+		TownNPCDialogueName: an ancient Ruin
+	}
+
+	OceanTempleBiome: {
+		DisplayName: Ocean Temple Biome
+		TownNPCDialogueName: the Ocean Temple
+	}
+
+	AstralBiome: {
+		DisplayName: Astral Biome
+		TownNPCDialogueName: the Astral Biome
+	}
+}
+
+Conditions: {
+	EyeOfSkadiSelected: Mods.Ancient.Conditions.EyeOfSkadiSelected
+	IronCoreSelected: Mods.Ancient.Conditions.IronCoreSelected
+	SharangaSelected: Mods.Ancient.Conditions.SharangaSelected
+	IonShellSelected: Mods.Ancient.Conditions.IonShellSelected
+	LivingwoodBarrierSelected: Mods.Ancient.Conditions.LivingwoodBarrierSelected
+	ChaosPendantSelected: Mods.Ancient.Conditions.ChaosPendantSelected
+	MekansmSelected: Mods.Ancient.Conditions.MekansmSelected
+	SuspiciousLookingCrystalSelected: Mods.Ancient.Conditions.SuspiciousLookingCrystalSelected
+	BloodStoneSelected: Mods.Ancient.Conditions.BloodStoneSelected
+	DownedDarknessEmbrace: Mods.Ancient.Conditions.DownedDarknessEmbrace
+	BloodlustSelected: Mods.Ancient.Conditions.BloodlustSelected
+	LowHP: Mods.Ancient.Conditions.LowHP
+}
+
+"Keybinds.Active Accessory.DisplayName": Active  Accessory
+
+Prefixes: {
+	BlessedPrefix.DisplayName: Blessed
+	BloodstainedPrefix.DisplayName: Bloodstained
+	CollosalPrefix.DisplayName: Collosal
+	ForcefulPrefix.DisplayName: Forceful
+	RushingPrefix.DisplayName: Rushing
+	UnholyPrefix.DisplayName: Unholy
+	WisePrefix.DisplayName: Wise
+	StrategicPrefix.DisplayName: Strategic
+}

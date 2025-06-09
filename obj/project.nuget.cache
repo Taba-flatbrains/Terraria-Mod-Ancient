@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WUmOT4OQkMtSmT/A2MKCxcI6sbFm08x5IBh5oGSBrYxJn5zfpA15qZhi4NjEN9CVh1BjoFPfs8LAWKJN4a/PCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henni\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Ancient\\Ancient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henni\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\Henni\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Henni\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Henni\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

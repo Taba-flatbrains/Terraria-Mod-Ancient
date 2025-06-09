@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>Ancient</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="src\assets\effects\AstralBiomeShader.fx" />
+    <None Remove="src\assets\effects\DarknessEmbrace.fx" />
+    <None Remove="src\assets\effects\Shackled.fx" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeChainmail.png" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeChainmail_Body.png" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeGreaves.png" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeGreaves_Legs.png" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeHelmet.png" />
+    <None Remove="src\Code\Items\Armor\Bronze\BronzeHelmet_Head.png" />
+    <None Remove="src\Code\Items\Scrolls\ChaosPendantScroll.png" />
+    <None Remove="src\Code\Items\Scrolls\IonShellScroll.png" />
+    <None Remove="src\Code\Items\Scrolls\MekansmScroll.png" />
+    <None Remove="src\Code\Items\Scrolls\SuspiciousLookingCrystalScroll.png" />
+    <None Remove="src\Code\Tiles\SmelteryTile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="tModLoader.CodeAssist" Version="0.1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="src\Assets\Music\" />
+    <Folder Include="src\Code\NPCS\Friendly\" />
+    <Folder Include="src\Code\NPCS\Gores\Elf\" />
+  </ItemGroup>
+</Project>
